@@ -64,4 +64,5 @@ def get_24hformat_hour(hour_str):
             hour = int(hour_str[:2])
     return str(hour)
 
+
 #endregion bailam
