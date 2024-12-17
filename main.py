@@ -9,7 +9,6 @@ from s02_chambai import chambai
 # region testkey_list
 testcase_list = [
   {'input': {'hour_str': '6am'}, 'output': '6', 'tc_name': 'tc00'},
-
   {'input': ['6am'], 'output': '6', 'tc_name': 'tc01'},
   {'input': ['7 am'], 'output': '7', 'tc_name': 'tc02'},
   {'input': ['8AM'], 'output': '8', 'tc_name': 'tc03'},
